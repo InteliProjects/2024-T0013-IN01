@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://biblioteca.incor.usp.br/portal/wp-content/uploads/2020/03/logo-hc-fmusp-2023-1024x561.png" alt="hcfmusp" width="200"/>
+<img src="https://cdn.prod.website-files.com/648b0163b23ce8b435c112ee/66620b1905b5accde09ced2a_logo-hc.png" alt="hcfmusp" width="200"/>
 
 </div>
 
